@@ -11,9 +11,9 @@ Join the discussion at:
 
 [<img src='https://dokkur.com/assets/images/docs_screens/telegram.png' width='100'>](https://t.me/mikalendingbot) 
 
-[<img src='https://cdn.worldvectorlogo.com/logos/slack.svg' width='90'>](https://poloniexbot.slack.com/shared_invite/MTc5OTU4MDAzNTY4LTE0OTQzMTA2MzYtZDdkYTg1NjBkYg) (Recommended for communicating with Devs)
+[<img src='https://cdn.worldvectorlogo.com/logos/slack.svg' width='90'>](https://poloniexbot.slack.com/shared_invite/MTc5OTU4MDAzNTY4LTE0OTQzMTA2MzYtZDdkYTg1NjBkYg) **- Recommended for communicating with Devs**
 
-[<img src='https://www.redditstatic.com/spreddit1.gif'>Subreddit](https://www.reddit.com/r/poloniexlendingbot/) (Recommended for focused discussion)
+[<img src='https://www.redditstatic.com/spreddit1.gif'>Subreddit](https://www.reddit.com/r/poloniexlendingbot/) **- Recommended for focused discussion**
 
 Workflow management with Waffle.io
 
